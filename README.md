@@ -27,3 +27,7 @@ The code includes several constants and variables that are used to control the f
 - `button_interupt()`: an interrupt service routine that is triggered when the button is pressed, and changes the direction of the fan.
 
 The main loop of the code checks the current time and changes the fan speed/direction if necessary. The fan is also turned off for 30 seconds at the start of each minute.
+
+## Credits
+
+This code was written by Shane Swanton for the EECE.4520 - Microprocessors 2 course at UMass Lowell.
